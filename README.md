@@ -1,5 +1,4 @@
-## Hi there I am using GitHub 👋
-(reference: WhatsApp)
+## Hi there 👋
 
 ### Useful links:
 
