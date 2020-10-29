@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a French YouTuber playing video games and making tutorials, and I'm currently working on my own website to store all my content. See you soon!
+
 ### Useful links:
 
 #### In GitHub
